@@ -1,9 +1,10 @@
-<p align="center">
-	<a href="https://github.com/xenos1337">
-		<img src="https://discord.c99.nl/widget/theme-4/434771784160509970.png"/>
-	</a>
-</p>
+### Hi there 👋
+<img src = "https://github-readme-stats.vercel.app/api?username=Leitoa&show_icons=true&hide_border=true">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Leitoa">
+<br />
 
-<p align="center">
-	<img src="https://raw.githubusercontent.com/Leitoa/Leitoa/main/github-metrics.svg" />
-</p>
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/Leitoa/count.svg)
+
+<br />
