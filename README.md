@@ -1,5 +1,5 @@
 # Hello! 🙃
-## I'm Pedro - aka Leitoa
+## I'm Leitoa
 ### Hobby programming I do everything from discord bot to gaming hack
 #### I'm not a student I learned everything on YouTube 🙃
 <div align="center">
