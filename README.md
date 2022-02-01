@@ -1,7 +1,1 @@
-# Hello!  I'm Pedroozl
-### Hobby programming I do everything from discord bot to gaming hack, I'm good at practically everything I know
-<div align="center">
-  <a href="https://github.com/Pedroozl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroozl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroozl&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+#Larga de ser retardado e vai arrumar algo para fzr, copiar n e legal PORRA
